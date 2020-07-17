@@ -1,0 +1,38 @@
+html, body {
+  height: 100%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.container{
+  text-align: center;
+}
+
+button {
+  border: solid green 1px;
+  border-radius: 5px;
+  font-size: 22px;
+  cursor: pointer;
+  background: rgb(113, 167, 236);
+  margin-top: 5%;
+}
+
+button:hover {
+  background: rgb(68, 66, 194);
+}
+
+p {
+  font-size: 20px;
+}
+
+.info {
+  color: red;
+}
