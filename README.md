@@ -1,0 +1,2 @@
+# Hangman
+Javascript Hangman game
